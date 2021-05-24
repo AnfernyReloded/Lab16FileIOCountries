@@ -1,0 +1,13 @@
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\bin\Debug\netcoreapp3.1\Lab16 File IO.exe
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\bin\Debug\netcoreapp3.1\Lab16 File IO.deps.json
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\bin\Debug\netcoreapp3.1\Lab16 File IO.runtimeconfig.json
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\bin\Debug\netcoreapp3.1\Lab16 File IO.runtimeconfig.dev.json
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\bin\Debug\netcoreapp3.1\Lab16 File IO.dll
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\bin\Debug\netcoreapp3.1\Lab16 File IO.pdb
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\obj\Debug\netcoreapp3.1\Lab16 File IO.AssemblyInfoInputs.cache
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\obj\Debug\netcoreapp3.1\Lab16 File IO.AssemblyInfo.cs
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\obj\Debug\netcoreapp3.1\Lab16 File IO.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\obj\Debug\netcoreapp3.1\Lab16 File IO.dll
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\obj\Debug\netcoreapp3.1\Lab16 File IO.pdb
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\obj\Debug\netcoreapp3.1\Lab16 File IO.genruntimeconfig.cache
+C:\Users\Anthony Blocton\source\repos\Lab16 File IO\Lab16 File IO\obj\Debug\netcoreapp3.1\Lab16 File IO.csprojAssemblyReference.cache

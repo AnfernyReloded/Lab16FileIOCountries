@@ -1,0 +1,9 @@
+Amestris|Central City|30000000|726456
+Wakanda|Binin T'Chaka|6000000|78112
+Latvaria|Doomstadt|500000|5856
+Zion|Temple|260000|5000
+Asgard|The Castle|50000|10000
+Anthony|Blocton|12341|123124
+America|Washington|1231231|3423432
+United States|Washington DC|120|1234
+Japan|Tokyo|123213|12312
