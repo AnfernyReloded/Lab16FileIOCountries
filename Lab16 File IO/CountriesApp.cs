@@ -40,14 +40,15 @@ namespace Lab16_File_IO
 
                         foreach (Country country  in countries)
                         {
-                            Console.WriteLine($"Name:  {country.cName}| Capitol:  {country.cCapitol}| Population:  {country.cPopulation} million| Area:  {country.cArea} square kilometers");
+                            Console.WriteLine($"Name:  {country.cName}\n| Capitol:  {country.cCapitol}\n| Population:  {country.cPopulation} million \n| Area:  {country.cArea} square kilometers\n");
                              
                         }
                         break;
                     
                     case "2":
+                        
 
-                         Console.WriteLine("Enter information for new countries");
+                         //Console.WriteLine("Enter information for new countries");
 
                          Console.WriteLine($"Enter the name of your country: ");
                          string usercountry = Console.ReadLine();
@@ -59,7 +60,7 @@ namespace Lab16_File_IO
                          string userpop = Console.ReadLine();
                          double numpop = double.Parse(userpop);
 
-                         Console.WriteLine($"Finally, enter the square milage of you country: ");
+                         Console.WriteLine($"Finally, enter the square kilometers of you country: ");
                          string userarea = Console.ReadLine();
                          double numarea = double.Parse(userarea);
 
@@ -68,10 +69,14 @@ namespace Lab16_File_IO
 
                          locallist.Add(new Country { cName = usercountry, cCapitol = usercapitol, cPopulation = numpop, cArea = numarea });
 
-                         CountriesTextFile.WristListToFile(locallist);
-
-
+                        CountriesTextFile.WristListToFile(locallist);
                         break;
+
+                            
+
+                        
+
+
                     
                     case "3":
                         Console.WriteLine($"You chose menu option {menuchoice}, closing program");
@@ -79,7 +84,7 @@ namespace Lab16_File_IO
                         
                         
                         
-                    //out "Exiting program, 
+                    //user validation
                     default:
                         Console.WriteLine("select valid choice");
                         continue;
@@ -89,11 +94,22 @@ namespace Lab16_File_IO
                         
 
                 }
-                    if (menuchoice == "3")
-                        {
-                            Console.WriteLine($"Good bye!");
-                            break;
-                        }
+                if (menuchoice == "2")
+                {
+                Console.WriteLine("Would you like to add anouther country? ");
+                string userloop = Console.ReadLine().ToLower();
+                  if (userloop == "no")
+                   {
+                    Console.WriteLine($" Good bye!");
+                     break;
+                   }
+
+                }
+                 if (menuchoice == "3")
+                  {
+                   Console.WriteLine($"Good bye!");
+                   break;
+                  }
               
 
 
